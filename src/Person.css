@@ -1,0 +1,45 @@
+body {
+  background-color: lightgrey;
+}
+
+h1 {
+  background-color: green;
+}
+
+div {
+  background-color: white;
+}
+
+.person-container {
+  display: grid;
+  grid-gap: 10px;
+  background-color: #2196f3;
+  padding: 10px;
+}
+
+.person_name {
+  border-style: solid;
+  border-color: blue;
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 20px;
+  font-size: 30px;
+}
+
+.person_age {
+  border-style: solid;
+  border-color: black;
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 20px;
+  font-size: 30px;
+}
+
+.person_emali {
+  border-style: dotted;
+  border-color: black;
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 60px;
+  font-size: 40px;
+}
